@@ -12,7 +12,7 @@ We have automated our project into 2 shell scripts.
 hooray1.sh is responsible for performing indexing.
 hooray2.sh is responsible for ranking and url extraction.
 
-The workflow of the project is specified in the    provided.
+The workflow of the project is specified in the workflow.png.
 
 
 
